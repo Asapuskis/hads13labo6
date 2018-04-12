@@ -1,0 +1,23 @@
+[
+  {
+    "codigo": "EDA07-Ej1",
+    "descripcion": "Ejercicio sobre listas ligadas",
+    "hestimadas": 3,
+    "explotacion": true,
+    "tipotarea": "Ejercicio"
+  },
+  {
+    "codigo": "EDA13",
+    "descripcion": "examen",
+    "hestimadas": 12,
+    "explotacion": true,
+    "tipotarea": "Examen"
+  },
+  {
+    "codigo": "EX-123",
+    "descripcion": "examen",
+    "hestimadas": 3,
+    "explotacion": true,
+    "tipotarea": "Examen"
+  }
+]

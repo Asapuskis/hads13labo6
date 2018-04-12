@@ -1,0 +1,264 @@
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\obj\Debug\gestionWeb.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\obj\Debug\gestionWeb.Resources.resources
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\obj\Debug\gestionWeb.vbproj.GenerateResource.Cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\obj\Debug\gestionWeb.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\ApplicationInsights.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\csc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\vbc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\gestionWeb.dll.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\gestionWeb.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\gestionWeb.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\gestionWeb.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\gestionEmail.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\gestionEmail.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\gestionEmail.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\obj\Debug\gestionWeb.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\gestionWeb\obj\Debug\gestionWeb.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\ApplicationInsights.config
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\csc.exe
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\System.Collections.Immutable.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\System.Reflection.Metadata.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\vbc.exe
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\VBCSCompiler.exe
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\roslyn\VBCSCompiler.exe.config
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\gestionWeb.dll.config
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\gestionWeb.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\gestionWeb.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\gestionWeb.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\gestionEmail.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.Web.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.WindowsServer.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.ApplicationInsights.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\gestionEmail.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\gestionEmail.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.Web.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.AI.WindowsServer.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.ApplicationInsights.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\obj\Debug\gestionWeb.vbprojResolveAssemblyReference.cache
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\obj\Debug\gestionWeb.Resources.resources
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\obj\Debug\gestionWeb.vbproj.GenerateResource.Cache
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\obj\Debug\gestionWeb.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\obj\Debug\gestionWeb.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\gestionWeb\obj\Debug\gestionWeb.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\ApplicationInsights.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\csc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\vbc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionWeb.dll.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionWeb.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionWeb.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionWeb.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionEmail.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionEmail.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionEmail.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.Resources.resources
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.vbproj.GenerateResource.Cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\ApplicationInsights.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\csc.exe
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\System.Collections.Immutable.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\System.Reflection.Metadata.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\vbc.exe
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\VBCSCompiler.exe
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\roslyn\VBCSCompiler.exe.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionWeb.dll.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionWeb.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionWeb.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionWeb.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionEmail.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.Web.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.WindowsServer.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.ApplicationInsights.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionEmail.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\gestionEmail.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.Web.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.AI.WindowsServer.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.ApplicationInsights.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.vbprojResolveAssemblyReference.cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.Resources.resources
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.vbproj.GenerateResource.Cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\obj\Debug\gestionWeb.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Newtonsoft.Json.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\gestionWeb\bin\Newtonsoft.Json.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\ApplicationInsights.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\csc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\vbc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\gestionWeb.dll.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\gestionWeb.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\gestionWeb.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\gestionWeb.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\gestionEmail.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Newtonsoft.Json.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\gestionEmail.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\gestionEmail.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\bin\Newtonsoft.Json.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\obj\Debug\gestionWeb.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\obj\Debug\gestionWeb.Resources.resources
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\obj\Debug\gestionWeb.vbproj.GenerateResource.Cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\obj\Debug\gestionWeb.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\obj\Debug\gestionWeb.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\gestionWeb\obj\Debug\gestionWeb.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\ApplicationInsights.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\csc.exe
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\System.Collections.Immutable.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\System.Reflection.Metadata.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\vbc.exe
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\VBCSCompiler.exe
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\roslyn\VBCSCompiler.exe.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\gestionWeb.dll.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\gestionWeb.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\gestionWeb.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\gestionWeb.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\gestionEmail.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.Web.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.WindowsServer.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.ApplicationInsights.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Newtonsoft.Json.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\gestionEmail.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\gestionEmail.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.DependencyCollector.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.Web.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.AI.WindowsServer.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.ApplicationInsights.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\bin\Newtonsoft.Json.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\obj\Debug\gestionWeb.vbprojResolveAssemblyReference.cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\obj\Debug\gestionWeb.Resources.resources
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\obj\Debug\gestionWeb.vbproj.GenerateResource.Cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\obj\Debug\gestionWeb.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\obj\Debug\gestionWeb.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\gestionWeb\obj\Debug\gestionWeb.pdb

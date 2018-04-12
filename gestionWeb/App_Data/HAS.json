@@ -1,0 +1,93 @@
+[
+  {
+    "codigo": "Algoritmos",
+    "descripcion": "Hola 2",
+    "hestimadas": 200,
+    "explotacion": true,
+    "tipotarea": "Ejercicio"
+  },
+  {
+    "codigo": "GIS-Lab4",
+    "descripcion": "Hola",
+    "hestimadas": 7,
+    "explotacion": false,
+    "tipotarea": "Laboratorio"
+  },
+  {
+    "codigo": "HAS08-Lab10",
+    "descripcion": "aaaa",
+    "hestimadas": 10,
+    "explotacion": true,
+    "tipotarea": "Laboratorio"
+  },
+  {
+    "codigo": "HAS08-Lab12",
+    "descripcion": "Laboratorio 12 de la asignatura",
+    "hestimadas": 12,
+    "explotacion": true,
+    "tipotarea": "Laboratorio"
+  },
+  {
+    "codigo": "HAS08-Test5",
+    "descripcion": "Test 5 de la asignatura",
+    "hestimadas": 3,
+    "explotacion": false,
+    "tipotarea": "examen"
+  },
+  {
+    "codigo": "HAS11-LAB4",
+    "descripcion": "lalalalal",
+    "hestimadas": 20,
+    "explotacion": true,
+    "tipotarea": "Laboratorio"
+  },
+  {
+    "codigo": "HAS18-Lab4",
+    "descripcion": "Laboratorio 12",
+    "hestimadas": 12,
+    "explotacion": true,
+    "tipotarea": "Laboratorio"
+  },
+  {
+    "codigo": "HAS18-Test1",
+    "descripcion": "Test 5 de la asignatura",
+    "hestimadas": 1,
+    "explotacion": false,
+    "tipotarea": "Examen"
+  },
+  {
+    "codigo": "has23",
+    "descripcion": "habata habata3",
+    "hestimadas": 8,
+    "explotacion": false,
+    "tipotarea": "Ejercicio"
+  },
+  {
+    "codigo": "Lab4",
+    "descripcion": "qweqwe",
+    "hestimadas": 6,
+    "explotacion": false,
+    "tipotarea": "laboratorio"
+  },
+  {
+    "codigo": "Patata",
+    "descripcion": "tremenda patata",
+    "hestimadas": 2,
+    "explotacion": true,
+    "tipotarea": "Ejercicio"
+  },
+  {
+    "codigo": "Prueba18",
+    "descripcion": "Prueba 18",
+    "hestimadas": 10,
+    "explotacion": true,
+    "tipotarea": "Examen"
+  },
+  {
+    "codigo": "Test1",
+    "descripcion": "10 preguntas ....",
+    "hestimadas": 1,
+    "explotacion": false,
+    "tipotarea": "Examen"
+  }
+]

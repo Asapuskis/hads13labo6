@@ -1,0 +1,72 @@
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Laboratorio2\accesoDatosSQL\bin\Debug\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Laboratorio2\accesoDatosSQL\bin\Debug\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Laboratorio2\accesoDatosSQL\bin\Debug\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.Resources.resources
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbproj.GenerateResource.Cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\Laboratorio 21-02-2018\Laboratorio2\accesoDatosSQL\bin\Debug\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\Laboratorio 21-02-2018\Laboratorio2\accesoDatosSQL\bin\Debug\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\Laboratorio 21-02-2018\Laboratorio2\accesoDatosSQL\bin\Debug\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\Laboratorio 21-02-2018\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbprojResolveAssemblyReference.cache
+U:\Apuntes\ing inf\4º\HADS\Laboratorio 21-02-2018\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.Resources.resources
+U:\Apuntes\ing inf\4º\HADS\Laboratorio 21-02-2018\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbproj.GenerateResource.Cache
+U:\Apuntes\ing inf\4º\HADS\Laboratorio 21-02-2018\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\Laboratorio 21-02-2018\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\Laboratorio 21-02-2018\Laboratorio2\accesoDatosSQL\obj\Debug\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.Resources.resources
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbproj.GenerateResource.Cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbprojResolveAssemblyReference.cache
+U:\Apuntes\ing inf\4º\HADS\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.Resources.resources
+U:\Apuntes\ing inf\4º\HADS\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbproj.GenerateResource.Cache
+U:\Apuntes\ing inf\4º\HADS\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.Resources.resources
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbproj.GenerateResource.Cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbprojResolveAssemblyReference.cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.Resources.resources
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbproj.GenerateResource.Cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo4-master\hads13labo4-master\hads13labo4-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.Resources.resources
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbproj.GenerateResource.Cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\hads13labo5-master\hads13labo5-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\accesoDatosSQL\bin\Debug\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbprojResolveAssemblyReference.cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.Resources.resources
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.vbproj.GenerateResource.Cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo6-master\hads13labo6-master\accesoDatosSQL\obj\Debug\accesoDatosSQL.pdb

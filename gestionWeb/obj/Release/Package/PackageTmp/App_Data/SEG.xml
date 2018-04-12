@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<tareas xmlns:seg="http://ji.ehu.es/seg">
+  <tarea codigo="SEG08-Test12">
+    <descripcion>Test 12 de la asignatura</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea codigo="SEG08-Trabajo20">
+    <descripcion>Tareas del trabajo 20 de la asignatura</descripcion>
+    <hestimadas>10</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Trabajo</tipotarea>
+  </tarea>
+</tareas>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="hads13ConnectionString-Web.config Connection String" description="hads13ConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=hads13-2018.database.windows.net;Initial Catalog=hads13;Persist Security Info=True;User ID=aaguayo001;Password=Patata123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="U:\\Apuntes\\ing\ inf\\4º\\HADS\\hads13labo6-master\\hads13labo6-master\\gestionWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='hads13ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
